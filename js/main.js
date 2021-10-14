@@ -2,12 +2,12 @@
 $.AutumnLeafStart({
 	leavesfolder: "Animacion/",
 	howmanyimgsare: 5,
-	initialleaves: 10,
+	initialleaves: 4,
 	maxyposition: -10,
 	multiplyclick: true,
 	multiplynumber: 2,
 	infinite: true,
-	fallingsequence: 2000
+	fallingsequence: 4000
 });
 
 
